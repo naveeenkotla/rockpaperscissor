@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#r {
+  background-image: url('ro.png');
+  background-size: cover;
+
+}
+
+#p {
+  background-image: url('pap.png');
+  background-size: cover;
+
+}
+
+#s {
+  background-image: url('si.png');
+  background-size: cover;
+}
